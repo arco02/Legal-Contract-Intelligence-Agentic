@@ -16,7 +16,7 @@ Legal contracts are long, dense, and scattered. This project acts as an AI-power
 ## 📸 Application Interface
 
 **1. Internal Knowledge Base Retrieval**
-*The AI agent successfully retrieving and citing exact clauses directly from an uploaded private contract.
+*The AI agent successfully retrieving and citing exact clauses directly from an uploaded private contract.*
 
 <img width="1365" height="632" alt="Screenshot 2026-03-29 212629" src="https://github.com/user-attachments/assets/f12231bf-6fb2-4429-8730-392632f21510" />
 
