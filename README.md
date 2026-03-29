@@ -13,6 +13,21 @@ Legal contracts are long, dense, and scattered. This project acts as an AI-power
 
 **Disclaimer:** *This tool is for informational and research purposes only and does not constitute legal advice.*
 
+## 📸 Application Interface
+
+**1. Internal Knowledge Base Retrieval**
+*The AI agent successfully retrieving and citing exact clauses directly from an uploaded private contract.
+
+<img width="1365" height="632" alt="Screenshot 2026-03-29 212629" src="https://github.com/user-attachments/assets/f12231bf-6fb2-4429-8730-392632f21510" />
+
+<br>
+<br>
+
+**2. Autonomous Web Search Fallback (CRAG)**
+*The Corrective RAG system autonomously routing to a live web search when internal context is insufficient.*
+
+<img width="1155" height="339" alt="Screenshot 2026-03-29 213251" src="https://github.com/user-attachments/assets/d3d08c88-6507-4046-be20-38bea49359d1" />
+
 ## ✨ Core Architecture & Features
 
 * **🧠 Agentic Query Routing:** Utilizes a lightweight LLM (`RouterNode.java`) to classify query intent and dynamically route searches to specific vector namespaces (Commercial, Corporate IP, Operational) or the public Law Corpus, drastically reducing irrelevant context retrieval.
